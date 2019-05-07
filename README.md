@@ -2,6 +2,8 @@
 simple wrapper script to brute force images using steghide
 
 [*]Usage: ./steghide-brute.py <image_file> <wordlist>
+    
+    ./steghide-brute.py test.jpg /usr/share/wordlists/rockyou.txt
 
 steghide: could not extract any data with that passphrase!
 [-]Fail!!!
