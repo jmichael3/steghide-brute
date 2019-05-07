@@ -1,7 +1,6 @@
 # steghide-brute
 simple wrapper script to brute force images using steghide
 
-[*]Usage: ./steghide-brute.py <image_file> <wordlist>
     
     ./steghide-brute.py test.jpg /usr/share/wordlists/rockyou.txt
 
